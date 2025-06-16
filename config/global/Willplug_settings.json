@@ -1,0 +1,34 @@
+{
+  "Enable": {
+    "Value": true,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "Debug": {
+    "Value": false,
+    "AttachedHotkey": {
+      "ValueV2": {
+        "ControllerKey": "None",
+        "ControllerModifierKey": "None",
+        "Key": "None"
+      }
+    }
+  },
+  "PauseAbilityUsage": {
+    "Value": 113
+  },
+  "TestKey1": {
+    "Value": 114
+  },
+  "TestKey2": {
+    "Value": 115
+  },
+  "CharacterList": {
+    "Value": "char1"
+  }
+}

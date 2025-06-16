@@ -1,0 +1,135 @@
+2025-06-14 11:53:28.999 +02:00 [ERR] [Base Tree Routine Plugin] BaseTreeRoutinePlugin: Cannot find C:\gitrepos\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/flaskinfo.json file. This plugin will exit.
+2025-06-14 11:53:29.002 +02:00 [ERR] [Base Tree Routine Plugin] BaseTreeRoutinePlugin: Cannot find C:\gitrepos\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/debuffPanel.json file. This plugin will exit.
+2025-06-14 11:53:29.002 +02:00 [ERR] [Base Tree Routine Plugin] BaseTreeRoutinePlugin: Cannot find C:\gitrepos\poe_api_tehcheat\PoEHelper\Plugins\Compiled\poe-plugin-willplug/config/FlaskBuffDetails.json file. This plugin will exit.
+2025-06-14 11:57:46.676 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-14 12:21:45.257 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 12:22:07.239 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 12:25:26.963 +02:00 [ERR] XPBar, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at XPBar.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-14 12:27:19.343 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 12:44:30.661 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 12:44:47.308 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 12:52:53.592 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 13:06:20.417 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 13:07:51.180 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-14 15:33:17.380 +02:00 [ERR] Something wrong we parse 973 when expect 220
+2025-06-14 15:38:19.222 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 15:48:00.253 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 15:51:00.607 +02:00 [ERR] [MinimapIcons] Failed to build an icon for <Monster> (White) Metadata/Monsters/SpectralPauper/SpectralPauper3: (19228700210): System.NullReferenceException: Object reference not set to an instance of an object.
+   at MinimapIcons.IconsBuilder.Icons.MonsterIcon.Update(Entity entity, IconsBuilderSettings settings, Dictionary`2 modIcons)
+   at MinimapIcons.IconsBuilder.IconsBuilder.GenerateIcon(Entity entity)
+   at MinimapIcons.IconsBuilder.IconsBuilder.AddIcons()
+2025-06-14 15:59:39.413 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 16:04:55.022 +02:00 [ERR] XPBar, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at XPBar.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-14 16:05:25.103 +02:00 [ERR] Unable to process 9 entity candidate addresses due to the configured limit of 10000
+2025-06-14 16:05:25.103 +02:00 [ERR] Something wrong we parse 1459 when expect 182
+2025-06-14 16:06:45.217 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 16:08:34.660 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 16:13:07.177 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-14 16:39:09.310 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-14 19:23:43.369 +02:00 [ERR] XPBar, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at XPBar.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-14 19:25:08.133 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 19:27:39.290 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 19:28:02.960 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 19:29:59.072 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 19:35:14.369 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 19:35:40.715 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 19:46:47.778 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 19:51:40.224 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 19:53:39.155 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 20:00:09.714 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 20:30:54.869 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 20:37:53.217 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 20:42:23.103 +02:00 [ERR] XPBar, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at XPBar.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-14 20:50:39.682 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 20:53:21.358 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 21:03:16.078 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 21:20:50.741 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 21:26:07.640 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 21:29:37.320 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 21:41:18.304 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 21:48:00.398 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-14 21:48:02.241 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-14 21:48:12.033 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-14 21:48:26.660 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-14 21:48:34.019 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-14 21:48:34.935 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-14 21:48:35.141 +02:00 [ERR] Skill on cooldown
+2025-06-14 21:49:08.821 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-14 22:09:45.535 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 22:16:01.977 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 22:17:54.880 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 22:22:28.116 +02:00 [ERR] Something wrong we parse 45 when expect 13
+2025-06-14 22:29:31.979 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 22:30:18.927 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 22:30:26.337 +02:00 [ERR] XPBar, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at XPBar.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-14 22:31:32.389 +02:00 [ERR] XPBar, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at XPBar.Core.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-14 22:34:45.194 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 22:41:05.596 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 22:49:11.360 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 22:58:13.814 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-14 22:58:13.817 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-14 22:58:13.883 +02:00 [ERR] Buff already active
+2025-06-14 22:58:15.137 +02:00 [ERR] Skill on cooldown
+2025-06-14 22:58:25.102 +02:00 [ERR] Skill on cooldown
+2025-06-14 22:58:56.651 +02:00 [ERR] Skill on cooldown
+2025-06-14 22:59:29.350 +02:00 [ERR] Skill on cooldown
+2025-06-14 22:59:55.186 +02:00 [ERR] Skill on cooldown
+2025-06-14 23:00:21.959 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-14 23:00:21.959 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-14 23:00:21.960 +02:00 [ERR] Buff already active
+2025-06-14 23:00:22.478 +02:00 [ERR] Skill on cooldown
+2025-06-14 23:01:29.264 +02:00 [ERR] Buff already active
+2025-06-14 23:01:35.744 +02:00 [ERR] Skill on cooldown
+2025-06-14 23:01:44.856 +02:00 [ERR] Skill on cooldown
+2025-06-14 23:01:54.214 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-14 23:01:54.214 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-14 23:01:54.283 +02:00 [ERR] Buff already active
+2025-06-14 23:01:55.605 +02:00 [ERR] Skill on cooldown
+2025-06-14 23:12:31.984 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 23:13:42.537 +02:00 [ERR] Something wrong we parse 1674 when expect 211
+2025-06-14 23:14:15.159 +02:00 [ERR] [BasicFlaskRoutine] BasicFlaskRoutine: Exception! Printscreen this and post it.
+Object reference not set to an instance of an object.
+   at TreeRoutine.DefaultBehaviors.Helpers.PlayerHelper`2.isHealthBelowPercentage(Int32 healthPercentage) in BasicFlaskRoutine/TreeRoutine/DefaultBehaviors/Helpers/PlayerHelper.cs:line 20
+   at TreeRoutine.Routine.BasicFlaskRoutine.BasicFlaskRoutine.<CreateOffensivePotionComposite>b__40_0(Object x) in BasicFlaskRoutine/BasicFlaskRoutine/BasicFlaskRoutine.cs:line 245
+   at TreeRoutine.TreeSharp.Decorator.Execute(Object context)+MoveNext() in BasicFlaskRoutine/TreeRoutine/TreeSharp/Decorator.cs:line 65
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in BasicFlaskRoutine/TreeRoutine/TreeSharp/Composite.cs:line 143
+   at TreeRoutine.TreeSharp.PrioritySelector.Execute(Object context)+MoveNext() in BasicFlaskRoutine/TreeRoutine/TreeSharp/PrioritySelector.cs:line 60
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in BasicFlaskRoutine/TreeRoutine/TreeSharp/Composite.cs:line 143
+   at TreeRoutine.TreeSharp.PrioritySelector.Execute(Object context)+MoveNext() in BasicFlaskRoutine/TreeRoutine/TreeSharp/PrioritySelector.cs:line 60
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in BasicFlaskRoutine/TreeRoutine/TreeSharp/Composite.cs:line 143
+   at TreeRoutine.TreeSharp.Decorator.Execute(Object context)+MoveNext() in BasicFlaskRoutine/TreeRoutine/TreeSharp/Decorator.cs:line 78
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in BasicFlaskRoutine/TreeRoutine/TreeSharp/Composite.cs:line 143
+   at TreeRoutine.BaseTreeRoutinePlugin`2.TickTree(Composite treeRoot) in BasicFlaskRoutine/TreeRoutine/BaseTreeRoutinePlugin.cs:line 120
+2025-06-14 23:14:15.193 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 23:31:14.697 +02:00 [ERR] Unable to process 5 entity candidate addresses due to the configured limit of 10000
+2025-06-14 23:33:11.817 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 23:36:31.707 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 23:39:54.888 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 23:41:56.346 +02:00 [ERR] Something wrong we parse 67 when expect 33
+2025-06-14 23:41:59.107 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 23:42:09.923 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 23:42:20.506 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-14 23:44:15.005 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 23:45:58.248 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 23:46:48.654 +02:00 [ERR] EntityList -> Address is 0;
+2025-06-14 23:48:59.676 +02:00 [ERR] EntityList -> Address is 0;
