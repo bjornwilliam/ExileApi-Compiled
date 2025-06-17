@@ -1,0 +1,687 @@
+2025-06-17 00:00:02.187 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-17 00:00:02.619 +02:00 [INF] Game not found
+2025-06-17 00:00:04.681 +02:00 [INF] Game not found
+2025-06-17 00:00:06.754 +02:00 [INF] Game not found
+2025-06-17 00:00:08.802 +02:00 [INF] Game not found
+2025-06-17 00:00:10.856 +02:00 [INF] Game not found
+2025-06-17 00:00:12.901 +02:00 [INF] Game not found
+2025-06-17 00:00:14.959 +02:00 [INF] Game not found
+2025-06-17 00:00:17.015 +02:00 [INF] Game not found
+2025-06-17 00:00:19.052 +02:00 [INF] Game not found
+2025-06-17 00:00:21.112 +02:00 [INF] Game not found
+2025-06-17 00:00:23.158 +02:00 [INF] Game not found
+2025-06-17 00:00:25.204 +02:00 [INF] Game not found
+2025-06-17 00:00:27.269 +02:00 [INF] Game not found
+2025-06-17 00:00:29.337 +02:00 [INF] Game not found
+2025-06-17 00:00:31.379 +02:00 [INF] Game not found
+2025-06-17 00:00:33.422 +02:00 [INF] Game not found
+2025-06-17 00:00:35.477 +02:00 [INF] Game not found
+2025-06-17 00:00:37.517 +02:00 [INF] Game not found
+2025-06-17 00:00:39.581 +02:00 [INF] Game not found
+2025-06-17 00:00:41.633 +02:00 [INF] Game not found
+2025-06-17 00:00:43.677 +02:00 [INF] Game not found
+2025-06-17 00:00:45.729 +02:00 [INF] Game not found
+2025-06-17 00:00:47.771 +02:00 [INF] Game not found
+2025-06-17 00:00:49.808 +02:00 [INF] Game not found
+2025-06-17 00:00:51.861 +02:00 [INF] Game not found
+2025-06-17 00:00:53.919 +02:00 [INF] Game not found
+2025-06-17 00:00:55.974 +02:00 [INF] Game not found
+2025-06-17 00:00:58.033 +02:00 [INF] Game not found
+2025-06-17 00:01:00.084 +02:00 [INF] Game not found
+2025-06-17 00:01:02.136 +02:00 [INF] Game not found
+2025-06-17 00:01:04.187 +02:00 [INF] Game not found
+2025-06-17 00:01:06.230 +02:00 [INF] Game not found
+2025-06-17 00:01:08.263 +02:00 [INF] Game not found
+2025-06-17 00:01:10.305 +02:00 [INF] Game not found
+2025-06-17 00:01:12.369 +02:00 [INF] Game not found
+2025-06-17 00:01:14.441 +02:00 [INF] Game not found
+2025-06-17 00:01:16.481 +02:00 [INF] Game not found
+2025-06-17 00:01:18.515 +02:00 [INF] Game not found
+2025-06-17 00:01:20.571 +02:00 [INF] Game not found
+2025-06-17 00:01:22.614 +02:00 [INF] Game not found
+2025-06-17 00:01:24.671 +02:00 [INF] Game not found
+2025-06-17 00:01:26.718 +02:00 [INF] Game not found
+2025-06-17 00:01:28.761 +02:00 [INF] Game not found
+2025-06-17 00:01:30.812 +02:00 [INF] Game not found
+2025-06-17 00:01:32.862 +02:00 [INF] Game not found
+2025-06-17 00:01:34.906 +02:00 [INF] Game not found
+2025-06-17 00:01:36.958 +02:00 [INF] Game not found
+2025-06-17 00:01:39.002 +02:00 [INF] Game not found
+2025-06-17 00:01:41.058 +02:00 [INF] Game not found
+2025-06-17 00:01:43.104 +02:00 [INF] Game not found
+2025-06-17 00:01:45.166 +02:00 [INF] Game not found
+2025-06-17 00:01:47.220 +02:00 [INF] Game not found
+2025-06-17 00:01:49.272 +02:00 [INF] Game not found
+2025-06-17 00:01:51.329 +02:00 [INF] Game not found
+2025-06-17 00:01:53.383 +02:00 [INF] Game not found
+2025-06-17 00:01:55.414 +02:00 [INF] Game not found
+2025-06-17 00:01:57.456 +02:00 [INF] Game not found
+2025-06-17 00:01:59.514 +02:00 [INF] Game not found
+2025-06-17 00:02:01.551 +02:00 [INF] Game not found
+2025-06-17 00:02:03.588 +02:00 [INF] Game not found
+2025-06-17 00:02:05.652 +02:00 [INF] Game not found
+2025-06-17 00:02:07.699 +02:00 [INF] Game not found
+2025-06-17 00:02:09.733 +02:00 [INF] Game not found
+2025-06-17 00:02:11.780 +02:00 [INF] Game not found
+2025-06-17 00:02:13.827 +02:00 [INF] Game not found
+2025-06-17 00:02:15.890 +02:00 [INF] Game not found
+2025-06-17 00:02:17.955 +02:00 [INF] Game not found
+2025-06-17 00:02:20.000 +02:00 [INF] Game not found
+2025-06-17 00:02:22.048 +02:00 [INF] Game not found
+2025-06-17 00:02:24.090 +02:00 [INF] Game not found
+2025-06-17 00:02:26.127 +02:00 [INF] Game not found
+2025-06-17 00:02:28.174 +02:00 [INF] Game not found
+2025-06-17 00:02:30.232 +02:00 [INF] Game not found
+2025-06-17 00:02:32.290 +02:00 [INF] Game not found
+2025-06-17 00:02:34.348 +02:00 [INF] Game not found
+2025-06-17 00:02:36.396 +02:00 [INF] Game not found
+2025-06-17 00:02:38.450 +02:00 [INF] Game not found
+2025-06-17 00:02:40.504 +02:00 [INF] Game not found
+2025-06-17 00:02:42.555 +02:00 [INF] Game not found
+2025-06-17 00:02:44.598 +02:00 [INF] Game not found
+2025-06-17 00:02:46.652 +02:00 [INF] Game not found
+2025-06-17 00:02:48.693 +02:00 [INF] Game not found
+2025-06-17 00:02:50.775 +02:00 [INF] Game not found
+2025-06-17 00:02:52.810 +02:00 [INF] Game not found
+2025-06-17 00:02:54.869 +02:00 [INF] Game not found
+2025-06-17 00:02:56.912 +02:00 [INF] Game not found
+2025-06-17 00:02:58.958 +02:00 [INF] Game not found
+2025-06-17 00:03:01.014 +02:00 [INF] Game not found
+2025-06-17 00:03:03.058 +02:00 [INF] Game not found
+2025-06-17 00:03:05.107 +02:00 [INF] Game not found
+2025-06-17 00:03:07.167 +02:00 [INF] Game not found
+2025-06-17 00:03:09.236 +02:00 [INF] Game not found
+2025-06-17 00:03:11.279 +02:00 [INF] Game not found
+2025-06-17 00:03:13.332 +02:00 [INF] Game not found
+2025-06-17 00:03:15.375 +02:00 [INF] Game not found
+2025-06-17 00:03:17.431 +02:00 [INF] Game not found
+2025-06-17 00:03:19.486 +02:00 [INF] Game not found
+2025-06-17 00:03:21.524 +02:00 [INF] Game not found
+2025-06-17 00:03:23.585 +02:00 [INF] Game not found
+2025-06-17 00:03:25.631 +02:00 [INF] Game not found
+2025-06-17 00:03:27.677 +02:00 [INF] Game not found
+2025-06-17 00:03:29.701 +02:00 [INF] Game not found
+2025-06-17 00:03:31.773 +02:00 [INF] Game not found
+2025-06-17 00:03:33.808 +02:00 [INF] Game not found
+2025-06-17 00:03:35.871 +02:00 [INF] Game not found
+2025-06-17 00:03:37.908 +02:00 [INF] Game not found
+2025-06-17 00:03:39.966 +02:00 [INF] Game not found
+2025-06-17 00:03:42.005 +02:00 [INF] Game not found
+2025-06-17 00:03:44.056 +02:00 [INF] Game not found
+2025-06-17 00:03:46.098 +02:00 [INF] Game not found
+2025-06-17 00:03:48.145 +02:00 [INF] Game not found
+2025-06-17 00:03:50.191 +02:00 [INF] Game not found
+2025-06-17 00:03:52.243 +02:00 [INF] Game not found
+2025-06-17 00:03:54.277 +02:00 [INF] Game not found
+2025-06-17 00:03:56.341 +02:00 [INF] Game not found
+2025-06-17 00:03:58.397 +02:00 [INF] Game not found
+2025-06-17 00:04:00.435 +02:00 [INF] Game not found
+2025-06-17 00:04:02.494 +02:00 [INF] Game not found
+2025-06-17 00:04:04.550 +02:00 [INF] Game not found
+2025-06-17 00:04:06.600 +02:00 [INF] Game not found
+2025-06-17 00:04:08.647 +02:00 [INF] Game not found
+2025-06-17 00:04:10.700 +02:00 [INF] Game not found
+2025-06-17 00:04:12.760 +02:00 [INF] Game not found
+2025-06-17 00:04:14.810 +02:00 [INF] Game not found
+2025-06-17 00:04:16.854 +02:00 [INF] Game not found
+2025-06-17 00:04:18.912 +02:00 [INF] Game not found
+2025-06-17 00:04:20.957 +02:00 [INF] Game not found
+2025-06-17 00:04:22.997 +02:00 [INF] Game not found
+2025-06-17 00:04:25.061 +02:00 [INF] Game not found
+2025-06-17 00:04:27.110 +02:00 [INF] Game not found
+2025-06-17 00:04:29.161 +02:00 [INF] Game not found
+2025-06-17 00:04:31.201 +02:00 [INF] Game not found
+2025-06-17 00:04:33.241 +02:00 [INF] Game not found
+2025-06-17 00:04:35.292 +02:00 [INF] Game not found
+2025-06-17 00:04:37.358 +02:00 [INF] Game not found
+2025-06-17 00:04:39.391 +02:00 [INF] Game not found
+2025-06-17 00:04:41.448 +02:00 [INF] Game not found
+2025-06-17 00:04:43.509 +02:00 [INF] Game not found
+2025-06-17 00:04:45.555 +02:00 [INF] Game not found
+2025-06-17 00:04:47.606 +02:00 [INF] Game not found
+2025-06-17 00:04:49.634 +02:00 [INF] Game not found
+2025-06-17 00:04:51.690 +02:00 [INF] Game not found
+2025-06-17 00:04:53.748 +02:00 [INF] Game not found
+2025-06-17 00:04:55.814 +02:00 [INF] Game not found
+2025-06-17 00:04:57.865 +02:00 [INF] Game not found
+2025-06-17 00:04:59.916 +02:00 [INF] Game not found
+2025-06-17 00:05:01.982 +02:00 [INF] Game not found
+2025-06-17 00:05:04.018 +02:00 [INF] Game not found
+2025-06-17 00:05:06.076 +02:00 [INF] Game not found
+2025-06-17 00:05:08.115 +02:00 [INF] Game not found
+2025-06-17 00:05:10.164 +02:00 [INF] Game not found
+2025-06-17 00:05:12.222 +02:00 [INF] Game not found
+2025-06-17 00:05:14.261 +02:00 [INF] Game not found
+2025-06-17 00:05:16.312 +02:00 [INF] Game not found
+2025-06-17 00:05:18.360 +02:00 [INF] Game not found
+2025-06-17 00:05:20.397 +02:00 [INF] Game not found
+2025-06-17 00:05:22.451 +02:00 [INF] Game not found
+2025-06-17 00:05:24.508 +02:00 [INF] Game not found
+2025-06-17 00:05:26.541 +02:00 [INF] Game not found
+2025-06-17 00:05:28.608 +02:00 [INF] Game not found
+2025-06-17 00:05:30.658 +02:00 [INF] Game not found
+2025-06-17 00:05:32.701 +02:00 [INF] Game not found
+2025-06-17 00:05:34.745 +02:00 [INF] Game not found
+2025-06-17 00:05:36.794 +02:00 [INF] Game not found
+2025-06-17 00:05:38.834 +02:00 [INF] Game not found
+2025-06-17 00:05:40.878 +02:00 [INF] Game not found
+2025-06-17 00:05:42.921 +02:00 [INF] Game not found
+2025-06-17 00:05:44.973 +02:00 [INF] Game not found
+2025-06-17 00:05:47.029 +02:00 [INF] Game not found
+2025-06-17 00:05:49.074 +02:00 [INF] Game not found
+2025-06-17 00:05:51.123 +02:00 [INF] Game not found
+2025-06-17 00:05:53.167 +02:00 [INF] Game not found
+2025-06-17 00:05:55.235 +02:00 [INF] Game not found
+2025-06-17 00:05:57.284 +02:00 [INF] Game not found
+2025-06-17 00:05:59.335 +02:00 [INF] Game not found
+2025-06-17 00:06:01.393 +02:00 [INF] Game not found
+2025-06-17 00:06:03.423 +02:00 [INF] Game not found
+2025-06-17 00:06:05.471 +02:00 [INF] Game not found
+2025-06-17 00:06:07.528 +02:00 [INF] Game not found
+2025-06-17 00:06:09.568 +02:00 [INF] Game not found
+2025-06-17 00:06:11.617 +02:00 [INF] Game not found
+2025-06-17 00:06:13.663 +02:00 [INF] Game not found
+2025-06-17 00:06:15.723 +02:00 [INF] Game not found
+2025-06-17 00:06:17.777 +02:00 [INF] Game not found
+2025-06-17 00:06:19.829 +02:00 [INF] Game not found
+2025-06-17 00:06:21.876 +02:00 [INF] Game not found
+2025-06-17 00:06:23.928 +02:00 [INF] Game not found
+2025-06-17 00:06:25.998 +02:00 [INF] Game not found
+2025-06-17 00:06:28.038 +02:00 [INF] Game not found
+2025-06-17 00:06:30.093 +02:00 [INF] Game not found
+2025-06-17 00:06:32.157 +02:00 [INF] Game not found
+2025-06-17 00:06:34.196 +02:00 [INF] Game not found
+2025-06-17 00:06:36.242 +02:00 [INF] Game not found
+2025-06-17 00:06:38.282 +02:00 [INF] Game not found
+2025-06-17 00:06:40.348 +02:00 [INF] Game not found
+2025-06-17 00:06:42.398 +02:00 [INF] Game not found
+2025-06-17 00:06:44.446 +02:00 [INF] Game not found
+2025-06-17 00:06:46.499 +02:00 [INF] Game not found
+2025-06-17 00:06:48.558 +02:00 [INF] Game not found
+2025-06-17 00:06:50.599 +02:00 [INF] Game not found
+2025-06-17 00:06:52.656 +02:00 [INF] Game not found
+2025-06-17 00:06:54.703 +02:00 [INF] Game not found
+2025-06-17 00:06:56.752 +02:00 [INF] Game not found
+2025-06-17 00:06:58.804 +02:00 [INF] Game not found
+2025-06-17 00:07:00.870 +02:00 [INF] Game not found
+2025-06-17 00:07:02.933 +02:00 [INF] Game not found
+2025-06-17 00:07:04.984 +02:00 [INF] Game not found
+2025-06-17 00:07:07.036 +02:00 [INF] Game not found
+2025-06-17 00:07:09.082 +02:00 [INF] Game not found
+2025-06-17 00:07:11.151 +02:00 [INF] Game not found
+2025-06-17 00:07:13.200 +02:00 [INF] Game not found
+2025-06-17 00:07:15.234 +02:00 [INF] Game not found
+2025-06-17 00:07:17.290 +02:00 [INF] Game not found
+2025-06-17 00:07:19.352 +02:00 [INF] Game not found
+2025-06-17 00:07:21.402 +02:00 [INF] Game not found
+2025-06-17 00:07:23.456 +02:00 [INF] Game not found
+2025-06-17 00:07:25.516 +02:00 [INF] Game not found
+2025-06-17 00:07:27.579 +02:00 [INF] Game not found
+2025-06-17 00:07:29.624 +02:00 [INF] Game not found
+2025-06-17 00:07:31.681 +02:00 [INF] Game not found
+2025-06-17 00:07:33.722 +02:00 [INF] Game not found
+2025-06-17 00:07:35.772 +02:00 [INF] Game not found
+2025-06-17 00:07:37.820 +02:00 [INF] Game not found
+2025-06-17 00:07:39.874 +02:00 [INF] Game not found
+2025-06-17 00:07:41.932 +02:00 [INF] Game not found
+2025-06-17 00:07:43.987 +02:00 [INF] Game not found
+2025-06-17 00:07:46.033 +02:00 [INF] Game not found
+2025-06-17 00:07:48.098 +02:00 [INF] Game not found
+2025-06-17 00:07:50.146 +02:00 [INF] Game not found
+2025-06-17 00:07:52.199 +02:00 [INF] Game not found
+2025-06-17 00:07:54.245 +02:00 [INF] Game not found
+2025-06-17 00:07:56.302 +02:00 [INF] Game not found
+2025-06-17 00:07:58.344 +02:00 [INF] Game not found
+2025-06-17 00:08:00.404 +02:00 [INF] Game not found
+2025-06-17 00:08:02.440 +02:00 [INF] Game not found
+2025-06-17 00:08:04.495 +02:00 [INF] Game not found
+2025-06-17 00:08:06.539 +02:00 [INF] Game not found
+2025-06-17 00:08:08.597 +02:00 [INF] Game not found
+2025-06-17 00:08:10.646 +02:00 [INF] Game not found
+2025-06-17 00:08:12.693 +02:00 [INF] Game not found
+2025-06-17 00:08:14.743 +02:00 [INF] Game not found
+2025-06-17 00:08:16.798 +02:00 [INF] Game not found
+2025-06-17 00:08:18.849 +02:00 [INF] Game not found
+2025-06-17 00:08:20.897 +02:00 [INF] Game not found
+2025-06-17 00:08:22.946 +02:00 [INF] Game not found
+2025-06-17 00:08:24.992 +02:00 [INF] Game not found
+2025-06-17 00:08:27.025 +02:00 [INF] Game not found
+2025-06-17 00:08:29.095 +02:00 [INF] Game not found
+2025-06-17 00:08:31.135 +02:00 [INF] Game not found
+2025-06-17 00:08:33.185 +02:00 [INF] Game not found
+2025-06-17 00:08:35.251 +02:00 [INF] Game not found
+2025-06-17 00:08:37.303 +02:00 [INF] Game not found
+2025-06-17 00:08:39.355 +02:00 [INF] Game not found
+2025-06-17 00:08:41.401 +02:00 [INF] Game not found
+2025-06-17 00:08:43.467 +02:00 [INF] Game not found
+2025-06-17 00:08:45.508 +02:00 [INF] Game not found
+2025-06-17 00:08:47.566 +02:00 [INF] Game not found
+2025-06-17 00:08:49.613 +02:00 [INF] Game not found
+2025-06-17 00:08:51.675 +02:00 [INF] Game not found
+2025-06-17 00:08:53.718 +02:00 [INF] Game not found
+2025-06-17 00:08:55.775 +02:00 [INF] Game not found
+2025-06-17 00:08:57.824 +02:00 [INF] Game not found
+2025-06-17 00:08:59.864 +02:00 [INF] Game not found
+2025-06-17 00:09:01.901 +02:00 [INF] Game not found
+2025-06-17 00:09:03.945 +02:00 [INF] Game not found
+2025-06-17 00:09:05.993 +02:00 [INF] Game not found
+2025-06-17 00:09:08.041 +02:00 [INF] Game not found
+2025-06-17 00:09:10.085 +02:00 [INF] Game not found
+2025-06-17 00:09:12.135 +02:00 [INF] Game not found
+2025-06-17 00:09:14.175 +02:00 [INF] Game not found
+2025-06-17 00:09:16.211 +02:00 [INF] Game not found
+2025-06-17 00:09:18.254 +02:00 [INF] Game not found
+2025-06-17 00:09:20.310 +02:00 [INF] Game not found
+2025-06-17 00:09:22.346 +02:00 [INF] Game not found
+2025-06-17 00:09:24.392 +02:00 [INF] Game not found
+2025-06-17 00:09:26.456 +02:00 [INF] Game not found
+2025-06-17 00:09:28.508 +02:00 [INF] Game not found
+2025-06-17 00:09:30.546 +02:00 [INF] Game not found
+2025-06-17 00:09:32.590 +02:00 [INF] Game not found
+2025-06-17 00:09:34.648 +02:00 [INF] Game not found
+2025-06-17 00:09:36.690 +02:00 [INF] Game not found
+2025-06-17 00:09:38.746 +02:00 [INF] Game not found
+2025-06-17 00:09:40.801 +02:00 [INF] Game not found
+2025-06-17 00:09:42.850 +02:00 [INF] Game not found
+2025-06-17 00:09:44.904 +02:00 [INF] Game not found
+2025-06-17 00:09:46.959 +02:00 [INF] Game not found
+2025-06-17 00:09:49.000 +02:00 [INF] Game not found
+2025-06-17 00:09:51.038 +02:00 [INF] Game not found
+2025-06-17 00:09:53.086 +02:00 [INF] Game not found
+2025-06-17 00:09:55.117 +02:00 [INF] Game not found
+2025-06-17 00:09:57.180 +02:00 [INF] Game not found
+2025-06-17 00:09:59.238 +02:00 [INF] Game not found
+2025-06-17 00:10:01.270 +02:00 [INF] Game not found
+2025-06-17 00:10:03.330 +02:00 [INF] Game not found
+2025-06-17 00:10:05.379 +02:00 [INF] Game not found
+2025-06-17 00:10:07.422 +02:00 [INF] Game not found
+2025-06-17 00:10:09.466 +02:00 [INF] Game not found
+2025-06-17 00:10:11.506 +02:00 [INF] Game not found
+2025-06-17 00:10:13.552 +02:00 [INF] Game not found
+2025-06-17 00:10:15.588 +02:00 [INF] Game not found
+2025-06-17 00:10:17.639 +02:00 [INF] Game not found
+2025-06-17 00:10:19.696 +02:00 [INF] Game not found
+2025-06-17 00:10:21.742 +02:00 [INF] Game not found
+2025-06-17 00:10:23.792 +02:00 [INF] Game not found
+2025-06-17 00:10:25.847 +02:00 [INF] Game not found
+2025-06-17 00:10:27.896 +02:00 [INF] Game not found
+2025-06-17 00:10:29.944 +02:00 [INF] Game not found
+2025-06-17 00:10:31.990 +02:00 [INF] Game not found
+2025-06-17 00:10:34.035 +02:00 [INF] Game not found
+2025-06-17 00:10:36.072 +02:00 [INF] Game not found
+2025-06-17 00:10:38.120 +02:00 [INF] Game not found
+2025-06-17 00:10:40.170 +02:00 [INF] Game not found
+2025-06-17 00:10:42.221 +02:00 [INF] Game not found
+2025-06-17 00:10:44.269 +02:00 [INF] Game not found
+2025-06-17 00:10:46.302 +02:00 [INF] Game not found
+2025-06-17 00:10:48.357 +02:00 [INF] Game not found
+2025-06-17 00:10:50.411 +02:00 [INF] Game not found
+2025-06-17 00:10:52.467 +02:00 [INF] Game not found
+2025-06-17 00:10:54.505 +02:00 [INF] Game not found
+2025-06-17 00:10:56.569 +02:00 [INF] Game not found
+2025-06-17 00:10:58.607 +02:00 [INF] Game not found
+2025-06-17 00:11:00.667 +02:00 [INF] Game not found
+2025-06-17 00:11:02.718 +02:00 [INF] Game not found
+2025-06-17 00:11:04.779 +02:00 [INF] Game not found
+2025-06-17 00:11:06.835 +02:00 [INF] Game not found
+2025-06-17 00:11:08.875 +02:00 [INF] Game not found
+2025-06-17 00:11:10.927 +02:00 [INF] Game not found
+2025-06-17 00:11:12.969 +02:00 [INF] Game not found
+2025-06-17 00:11:15.026 +02:00 [INF] Game not found
+2025-06-17 00:11:17.073 +02:00 [INF] Game not found
+2025-06-17 00:11:19.110 +02:00 [INF] Game not found
+2025-06-17 00:11:21.156 +02:00 [INF] Game not found
+2025-06-17 00:11:23.196 +02:00 [INF] Game not found
+2025-06-17 00:11:25.241 +02:00 [INF] Game not found
+2025-06-17 00:11:27.293 +02:00 [INF] Game not found
+2025-06-17 00:11:29.346 +02:00 [INF] Game not found
+2025-06-17 00:11:31.403 +02:00 [INF] Game not found
+2025-06-17 00:11:33.444 +02:00 [INF] Game not found
+2025-06-17 00:11:35.484 +02:00 [INF] Game not found
+2025-06-17 00:11:37.552 +02:00 [INF] Game not found
+2025-06-17 00:11:39.590 +02:00 [INF] Game not found
+2025-06-17 00:11:41.634 +02:00 [INF] Game not found
+2025-06-17 00:11:43.694 +02:00 [INF] Game not found
+2025-06-17 00:11:45.740 +02:00 [INF] Game not found
+2025-06-17 00:11:47.806 +02:00 [INF] Game not found
+2025-06-17 00:11:49.850 +02:00 [INF] Game not found
+2025-06-17 00:11:51.889 +02:00 [INF] Game not found
+2025-06-17 00:11:53.947 +02:00 [INF] Game not found
+2025-06-17 00:11:55.994 +02:00 [INF] Game not found
+2025-06-17 00:11:58.043 +02:00 [INF] Game not found
+2025-06-17 00:12:00.089 +02:00 [INF] Game not found
+2025-06-17 00:12:02.130 +02:00 [INF] Game not found
+2025-06-17 00:12:04.157 +02:00 [INF] Game not found
+2025-06-17 00:12:06.214 +02:00 [INF] Game not found
+2025-06-17 00:12:08.275 +02:00 [INF] Game not found
+2025-06-17 00:12:10.314 +02:00 [INF] Game not found
+2025-06-17 00:12:12.366 +02:00 [INF] Game not found
+2025-06-17 00:12:14.420 +02:00 [INF] Game not found
+2025-06-17 00:12:16.470 +02:00 [INF] Game not found
+2025-06-17 00:12:18.519 +02:00 [INF] Game not found
+2025-06-17 00:12:20.564 +02:00 [INF] Game not found
+2025-06-17 00:12:22.610 +02:00 [INF] Game not found
+2025-06-17 00:12:24.657 +02:00 [INF] Game not found
+2025-06-17 00:12:26.703 +02:00 [INF] Game not found
+2025-06-17 00:12:28.749 +02:00 [INF] Game not found
+2025-06-17 00:12:30.810 +02:00 [INF] Game not found
+2025-06-17 00:12:32.857 +02:00 [INF] Game not found
+2025-06-17 00:12:34.913 +02:00 [INF] Game not found
+2025-06-17 00:12:36.956 +02:00 [INF] Game not found
+2025-06-17 00:12:39.009 +02:00 [INF] Game not found
+2025-06-17 00:12:41.067 +02:00 [INF] Game not found
+2025-06-17 00:12:43.110 +02:00 [INF] Game not found
+2025-06-17 00:12:45.147 +02:00 [INF] Game not found
+2025-06-17 00:12:47.202 +02:00 [INF] Game not found
+2025-06-17 00:12:49.263 +02:00 [INF] Game not found
+2025-06-17 00:12:51.318 +02:00 [INF] Game not found
+2025-06-17 00:12:53.355 +02:00 [INF] Game not found
+2025-06-17 00:12:55.407 +02:00 [INF] Game not found
+2025-06-17 00:12:57.447 +02:00 [INF] Game not found
+2025-06-17 00:12:59.499 +02:00 [INF] Game not found
+2025-06-17 00:13:01.552 +02:00 [INF] Game not found
+2025-06-17 00:13:03.593 +02:00 [INF] Game not found
+2025-06-17 00:13:05.656 +02:00 [INF] Game not found
+2025-06-17 00:13:07.713 +02:00 [INF] Game not found
+2025-06-17 00:13:09.768 +02:00 [INF] Game not found
+2025-06-17 00:13:11.822 +02:00 [INF] Game not found
+2025-06-17 00:13:13.877 +02:00 [INF] Game not found
+2025-06-17 00:13:15.920 +02:00 [INF] Game not found
+2025-06-17 00:13:17.971 +02:00 [INF] Game not found
+2025-06-17 00:13:20.025 +02:00 [INF] Game not found
+2025-06-17 00:13:22.065 +02:00 [INF] Game not found
+2025-06-17 00:13:24.117 +02:00 [INF] Game not found
+2025-06-17 00:13:26.160 +02:00 [INF] Game not found
+2025-06-17 00:13:28.229 +02:00 [INF] Game not found
+2025-06-17 00:13:30.263 +02:00 [INF] Game not found
+2025-06-17 00:13:32.328 +02:00 [INF] Game not found
+2025-06-17 00:13:34.366 +02:00 [INF] Game not found
+2025-06-17 00:13:36.448 +02:00 [INF] Game not found
+2025-06-17 00:13:38.486 +02:00 [INF] Game not found
+2025-06-17 00:13:40.549 +02:00 [INF] Game not found
+2025-06-17 00:13:42.617 +02:00 [INF] Game not found
+2025-06-17 00:13:44.665 +02:00 [INF] Game not found
+2025-06-17 00:13:46.718 +02:00 [INF] Game not found
+2025-06-17 00:13:48.768 +02:00 [INF] Game not found
+2025-06-17 00:13:50.832 +02:00 [INF] Game not found
+2025-06-17 00:13:52.886 +02:00 [INF] Game not found
+2025-06-17 00:13:54.936 +02:00 [INF] Game not found
+2025-06-17 00:13:56.974 +02:00 [INF] Game not found
+2025-06-17 00:13:59.009 +02:00 [INF] Game not found
+2025-06-17 00:14:01.067 +02:00 [INF] Game not found
+2025-06-17 00:14:03.118 +02:00 [INF] Game not found
+2025-06-17 00:14:05.165 +02:00 [INF] Game not found
+2025-06-17 00:14:07.214 +02:00 [INF] Game not found
+2025-06-17 00:14:09.285 +02:00 [INF] Game not found
+2025-06-17 00:14:11.340 +02:00 [INF] Game not found
+2025-06-17 00:14:13.393 +02:00 [INF] Game not found
+2025-06-17 00:14:15.438 +02:00 [INF] Game not found
+2025-06-17 00:14:17.472 +02:00 [INF] Game not found
+2025-06-17 00:14:19.514 +02:00 [INF] Game not found
+2025-06-17 00:14:21.577 +02:00 [INF] Game not found
+2025-06-17 00:14:23.618 +02:00 [INF] Game not found
+2025-06-17 00:14:25.670 +02:00 [INF] Game not found
+2025-06-17 00:14:27.719 +02:00 [INF] Game not found
+2025-06-17 00:14:29.751 +02:00 [INF] Game not found
+2025-06-17 00:14:31.808 +02:00 [INF] Game not found
+2025-06-17 00:14:33.856 +02:00 [INF] Game not found
+2025-06-17 00:14:35.902 +02:00 [INF] Game not found
+2025-06-17 00:14:37.953 +02:00 [INF] Game not found
+2025-06-17 00:14:39.992 +02:00 [INF] Game not found
+2025-06-17 00:14:42.042 +02:00 [INF] Game not found
+2025-06-17 00:14:44.100 +02:00 [INF] Game not found
+2025-06-17 00:14:46.135 +02:00 [INF] Game not found
+2025-06-17 00:14:48.182 +02:00 [INF] Game not found
+2025-06-17 00:14:50.246 +02:00 [INF] Game not found
+2025-06-17 00:14:52.283 +02:00 [INF] Game not found
+2025-06-17 00:14:54.335 +02:00 [INF] Game not found
+2025-06-17 00:14:56.394 +02:00 [INF] Game not found
+2025-06-17 00:14:58.433 +02:00 [INF] Game not found
+2025-06-17 00:15:00.498 +02:00 [INF] Game not found
+2025-06-17 00:15:02.540 +02:00 [INF] Game not found
+2025-06-17 00:15:04.581 +02:00 [INF] Game not found
+2025-06-17 00:15:06.641 +02:00 [INF] Game not found
+2025-06-17 00:15:08.673 +02:00 [INF] Game not found
+2025-06-17 00:15:10.733 +02:00 [INF] Game not found
+2025-06-17 00:15:12.779 +02:00 [INF] Game not found
+2025-06-17 00:15:14.825 +02:00 [INF] Game not found
+2025-06-17 00:15:16.876 +02:00 [INF] Game not found
+2025-06-17 00:15:18.925 +02:00 [INF] Game not found
+2025-06-17 00:15:20.970 +02:00 [INF] Game not found
+2025-06-17 00:15:23.023 +02:00 [INF] Game not found
+2025-06-17 00:15:25.081 +02:00 [INF] Game not found
+2025-06-17 00:15:27.122 +02:00 [INF] Game not found
+2025-06-17 00:15:29.177 +02:00 [INF] Game not found
+2025-06-17 00:15:31.223 +02:00 [INF] Game not found
+2025-06-17 00:15:33.277 +02:00 [INF] Game not found
+2025-06-17 00:15:35.305 +02:00 [INF] Game not found
+2025-06-17 00:15:37.361 +02:00 [INF] Game not found
+2025-06-17 00:15:39.400 +02:00 [INF] Game not found
+2025-06-17 00:15:41.440 +02:00 [INF] Game not found
+2025-06-17 00:15:43.480 +02:00 [INF] Game not found
+2025-06-17 00:15:45.578 +02:00 [INF] Game not found
+2025-06-17 08:53:22.621 +02:00 [INF] Game not found
+2025-06-17 08:53:23.738 +02:00 [INF] Game not found
+2025-06-17 08:53:25.714 +02:00 [INF] Game not found
+2025-06-17 08:53:27.789 +02:00 [INF] Game not found
+2025-06-17 08:53:29.865 +02:00 [INF] Game not found
+2025-06-17 08:53:31.923 +02:00 [INF] Game not found
+2025-06-17 08:53:34.010 +02:00 [INF] Game not found
+2025-06-17 08:53:36.062 +02:00 [INF] Game not found
+2025-06-17 08:53:38.124 +02:00 [INF] Game not found
+2025-06-17 08:53:40.169 +02:00 [INF] Game not found
+2025-06-17 08:53:42.237 +02:00 [INF] Game not found
+2025-06-17 08:53:44.270 +02:00 [INF] Game not found
+2025-06-17 08:53:46.331 +02:00 [INF] Game not found
+2025-06-17 08:53:48.379 +02:00 [INF] Game not found
+2025-06-17 08:53:50.435 +02:00 [INF] Game not found
+2025-06-17 08:53:52.477 +02:00 [INF] Game not found
+2025-06-17 08:53:54.519 +02:00 [INF] Game not found
+2025-06-17 08:53:56.563 +02:00 [INF] Game not found
+2025-06-17 08:53:58.626 +02:00 [INF] Game not found
+2025-06-17 08:54:00.678 +02:00 [INF] Game not found
+2025-06-17 08:54:02.726 +02:00 [INF] Game not found
+2025-06-17 08:54:04.767 +02:00 [INF] Game not found
+2025-06-17 08:54:06.855 +02:00 [INF] Game not found
+2025-06-17 08:54:08.885 +02:00 [INF] Game not found
+2025-06-17 08:54:10.937 +02:00 [INF] Game not found
+2025-06-17 08:54:12.989 +02:00 [INF] Game not found
+2025-06-17 08:54:15.061 +02:00 [INF] Game not found
+2025-06-17 08:54:17.116 +02:00 [INF] Game not found
+2025-06-17 08:54:19.162 +02:00 [INF] Game not found
+2025-06-17 08:54:21.214 +02:00 [INF] Game not found
+2025-06-17 08:54:23.251 +02:00 [INF] Game not found
+2025-06-17 08:54:25.300 +02:00 [INF] Game not found
+2025-06-17 08:54:27.348 +02:00 [INF] Game not found
+2025-06-17 08:54:29.388 +02:00 [INF] Game not found
+2025-06-17 08:54:31.433 +02:00 [INF] Game not found
+2025-06-17 08:54:33.504 +02:00 [INF] Game not found
+2025-06-17 08:54:35.622 +02:00 [INF] Pattern: Game State -> : Time: 1.6747 ms. Offset:[853726] Started searching offset with:0
+2025-06-17 08:54:35.622 +02:00 [INF] Pattern: BlackBarSize -> : Time: 4.7844 ms. Offset:[4566503] Started searching offset with:0
+2025-06-17 08:54:35.639 +02:00 [INF] Pattern: DiagnosticInfoType -> : Time: 25.5058 ms. Offset:[0] Started searching offset with:0
+2025-06-17 08:54:35.694 +02:00 [INF] Pattern: Area change -> : Time: 76.9201 ms. Offset:[12638548] Started searching offset with:0
+2025-06-17 08:54:35.729 +02:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 120.6529 ms. Offset:[28186175] Started searching offset with:0
+2025-06-17 08:54:35.730 +02:00 [VRB] FileRoot: 7ff7ea3deaf8
+2025-06-17 08:54:35.730 +02:00 [VRB] AreaChangeCount: 7ff7e957cee0
+2025-06-17 08:54:35.730 +02:00 [VRB] GameStateOffset: 7ff7ea269c68
+2025-06-17 08:54:35.730 +02:00 [VRB] DiagnosticInfoTypeOffset: 7ff7e70aff0f
+2025-06-17 08:54:35.732 +02:00 [INF] PerfTimer =-> Load files from memory (1.3748 ms) Thread #[12]
+2025-06-17 08:54:35.733 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:35.747 +02:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 124.6015 ms. Offset:[28186175] Started searching offset with:0
+2025-06-17 08:54:35.747 +02:00 [INF] Pattern: File Root -> : Time: 125.9425 ms. Offset:[32295027] Started searching offset with:0
+2025-06-17 08:54:35.747 +02:00 [INF] Pattern scan done: 00:00:00.1259957
+2025-06-17 08:54:35.747 +02:00 [ERR] Game address was 0, procAddress: 7FF7E60B0000, gameStateOffset: 41B9C68
+2025-06-17 08:54:35.747 +02:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:35.747 +02:00 [ERR] Inject -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+   at ExileCore.Core.Inject()
+2025-06-17 08:54:37.739 +02:00 [INF] PerfTimer =-> Load files from memory (0.0799 ms) Thread #[12]
+2025-06-17 08:54:37.740 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:39.771 +02:00 [INF] PerfTimer =-> Load files from memory (0.05 ms) Thread #[12]
+2025-06-17 08:54:39.771 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:41.802 +02:00 [INF] PerfTimer =-> Load files from memory (0.0464 ms) Thread #[12]
+2025-06-17 08:54:41.802 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:43.829 +02:00 [INF] PerfTimer =-> Load files from memory (0.0471 ms) Thread #[12]
+2025-06-17 08:54:43.829 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:45.858 +02:00 [INF] PerfTimer =-> Load files from memory (0.0539 ms) Thread #[12]
+2025-06-17 08:54:45.858 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:46.799 +02:00 [INF] =============== Close hud at 6/17/2025 8:54:46 AM ===============
+2025-06-17 09:16:22.544 +02:00 [INF] =============== Start hud at 6/17/2025 9:16:22 AM ===============
+2025-06-17 09:16:22.673 +02:00 [INF] PerfTimer =-> Create new offsets (75.8675 ms) Thread #[1]
+2025-06-17 09:16:23.550 +02:00 [INF] PerfTimer =-> Load manual fonts (0.4713 ms) Thread #[1]
+2025-06-17 09:16:23.550 +02:00 [INF] PerfTimer =-> DX11 Load (1.2106 ms) Thread #[1]
+2025-06-17 09:16:24.091 +02:00 [VRB] FileRoot: 7ff77a80eae8
+2025-06-17 09:16:24.091 +02:00 [VRB] AreaChangeCount: 7ff7799acee0
+2025-06-17 09:16:24.091 +02:00 [VRB] GameStateOffset: 7ff77a699c68
+2025-06-17 09:16:24.091 +02:00 [VRB] DiagnosticInfoTypeOffset: 7ff7774dff0f
+2025-06-17 09:16:24.166 +02:00 [INF] PerfTimer =-> Load files from memory (29.5103 ms) Thread #[1]
+2025-06-17 09:16:24.475 +02:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.BuildYourOwnRoutineSettings:TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[]:FlaskSettings TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:24.479 +02:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.BuildYourOwnRoutineSettings:System.Numerics.Vector2:LastSettingPos <0, 0> is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:24.479 +02:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.BuildYourOwnRoutineSettings:System.Numerics.Vector2:LastSettingSize <0, 0> is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:24.497 +02:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.BasicFlaskRoutineSettings:TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[]:FlaskSettings TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:24.987 +02:00 [WRN] FullRareSetManager.FullRareSetManagerSettings:System.Int32:SetsAmountStatistics 0 is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.014 +02:00 [INF] PerfTimer =-> Preload stats and mods (847.556 ms) Thread #[18]
+2025-06-17 09:16:25.281 +02:00 [WRN] MinimapIcons.MapIconsSettings:System.Single:SizeDefaultIcon 16 is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.773 +02:00 [WRN] PickIt.PickItSettings:System.String:NormalRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:MagicRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:RareRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:UniqueRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:WeightRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:IgnoreRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.Numerics.Vector2:InventorySlotsVector2 <0, 0> is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:PickIt.PickItSettings+FRSMOverrides:FullRareSetManagerPickupOverrides PickIt.PickItSettings+FRSMOverrides is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:26.217 +02:00 [WRN] Stashie.StashieSettings:System.Int32[,]:IgnoredCells System.Int32[,] is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:26.532 +02:00 [INF] PerfTimer =-> Plugin loader (2344.4361 ms) Thread #[1]
+2025-06-17 09:16:26.606 +02:00 [INF] Pattern: BlackBarSize -> : Time: 4.0488 ms. Offset:[4566503] Started searching offset with:0
+2025-06-17 09:16:26.606 +02:00 [INF] Pattern: Game State -> : Time: 5.2793 ms. Offset:[853726] Started searching offset with:0
+2025-06-17 09:16:26.606 +02:00 [INF] Pattern: Area change -> : Time: 27.6391 ms. Offset:[12638548] Started searching offset with:0
+2025-06-17 09:16:26.606 +02:00 [INF] Pattern: DiagnosticInfoType -> : Time: 30.702 ms. Offset:[0] Started searching offset with:0
+2025-06-17 09:16:26.606 +02:00 [INF] Pattern: Terrain Rotator Helper -> : Time: 58.6116 ms. Offset:[28186143] Started searching offset with:0
+2025-06-17 09:16:26.606 +02:00 [INF] Pattern: File Root -> : Time: 59.6747 ms. Offset:[32294995] Started searching offset with:0
+2025-06-17 09:16:26.606 +02:00 [INF] Pattern: Terrain Rotation Selector -> : Time: 60.4239 ms. Offset:[28186143] Started searching offset with:0
+2025-06-17 09:16:26.606 +02:00 [INF] Pattern scan done: 00:00:00.0656214
+2025-06-17 09:16:26.606 +02:00 [INF] Area refresh triggered
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory AdvancedTooltip loaded in 69 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory AdvancedUberLabLayout loaded in 52 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory AutoOpen loaded in 41 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory AutoQuit loaded in 28 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory BasicFlaskRoutine loaded in 113 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory BuffUtil loaded in 86 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory DevTree loaded in 164 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory DPSMeter loaded in 109 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory EliteBar loaded in 49 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory FullRareSetManager loaded in 80 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory HealthBars loaded in 92 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory HeistIcons loaded in 46 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory HighlightedItems loaded in 54 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory MinimapIcons loaded in 101 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory MiscInformation loaded in 45 ms.
+2025-06-17 09:16:26.606 +02:00 [INF] Plugins from directory PassiveSkillTreePlanter loaded in 328 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Plugins from directory PickIt loaded in 118 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Plugins from directory PluginUpdater loaded in 107 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Plugins from directory poe-plugin-willplug loaded in 55 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Plugins from directory PreloadAlert loaded in 133 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Plugins from directory Skill DPS loaded in 36 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Plugins from directory Stashie loaded in 110 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Plugins from directory XPBar loaded in 33 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] MiscInformation -> Initialise time: 2.3813 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] PreloadAlert -> Initialise time: 0.7495 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] [AdvancedUberLabLayout] Loading new lab layout image from site
+2025-06-17 09:16:26.607 +02:00 [INF] AdvancedUberLabLayout -> Initialise time: 182.4788 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] HealthBars -> Initialise time: 7.5203 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] HighlightedItems -> Initialise time: 2.8527 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] MinimapIcons -> Initialise time: 23.8776 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] PluginUpdater -> Initialise time: 0.149 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Skill_DPS.Core -> Initialise time: 0.0041 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] BasicFlaskRoutine -> Initialise time: 32.6727 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Willplug -> Initialise time: 23.0635 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] XPBar -> Initialise time: 0.0342 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] HUD loaded in 4213.0288 ms.
+2025-06-17 09:16:26.607 +02:00 [INF] Resize from: {X=0,Y=0,Width=3840,Height=2160} to {X=467,Y=211,Width=2906,Height=1762}
+2025-06-17 09:16:27.021 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-17 09:16:27.026 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-17 09:16:53.816 +02:00 [INF] Area refresh triggered
+2025-06-17 09:17:26.134 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:17:43.108 +02:00 [ERR] Something wrong we parse 243 when expect 40
+2025-06-17 09:17:43.473 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:17:43.491 +02:00 [INF] Area refresh triggered
+2025-06-17 09:20:29.001 +02:00 [INF] Area refresh triggered
+2025-06-17 09:20:29.040 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:20:29.125 +02:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at MinimapIcons.IconsBuilder.Icons.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-17 09:20:31.549 +02:00 [INF] Resize from: {X=467,Y=211,Width=2906,Height=1762} to {X=459,Y=179,Width=2922,Height=1802}
+2025-06-17 09:20:31.549 +02:00 [INF] Resize from: {X=459,Y=179,Width=2922,Height=1802} to {X=0,Y=730,Width=3840,Height=1430}
+2025-06-17 09:20:47.756 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:22:40.194 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:22:59.326 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:23:27.465 +02:00 [INF] Area refresh triggered
+2025-06-17 09:32:54.154 +02:00 [INF] Area refresh triggered
+2025-06-17 09:33:02.148 +02:00 [INF] Area refresh triggered
+2025-06-17 09:48:20.054 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-17 09:48:20.492 +02:00 [INF] Game not found
+2025-06-17 09:48:22.407 +02:00 [INF] =============== Close hud at 6/17/2025 9:48:22 AM ===============

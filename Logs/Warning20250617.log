@@ -1,0 +1,15 @@
+2025-06-17 09:16:24.475 +02:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.BuildYourOwnRoutineSettings:TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[]:FlaskSettings TreeRoutine.Routine.BuildYourOwnRoutine.Flask.FlaskSetting[] is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:24.479 +02:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.BuildYourOwnRoutineSettings:System.Numerics.Vector2:LastSettingPos <0, 0> is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:24.479 +02:00 [WRN] TreeRoutine.Routine.BuildYourOwnRoutine.BuildYourOwnRoutineSettings:System.Numerics.Vector2:LastSettingSize <0, 0> is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:24.497 +02:00 [WRN] TreeRoutine.Routine.BasicFlaskRoutine.BasicFlaskRoutineSettings:TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[]:FlaskSettings TreeRoutine.Routine.BasicFlaskRoutine.Flask.FlaskSetting[] is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:24.987 +02:00 [WRN] FullRareSetManager.FullRareSetManagerSettings:System.Int32:SetsAmountStatistics 0 is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.281 +02:00 [WRN] MinimapIcons.MapIconsSettings:System.Single:SizeDefaultIcon 16 is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.773 +02:00 [WRN] PickIt.PickItSettings:System.String:NormalRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:MagicRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:RareRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:UniqueRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:WeightRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.String:IgnoreRuleFile  is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:System.Numerics.Vector2:InventorySlotsVector2 <0, 0> is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:25.774 +02:00 [WRN] PickIt.PickItSettings:PickIt.PickItSettings+FRSMOverrides:FullRareSetManagerPickupOverrides PickIt.PickItSettings+FRSMOverrides is not a supported settings element. This is probably a bug in the plugin.
+2025-06-17 09:16:26.217 +02:00 [WRN] Stashie.StashieSettings:System.Int32[,]:IgnoredCells System.Int32[,] is not a supported settings element. This is probably a bug in the plugin.

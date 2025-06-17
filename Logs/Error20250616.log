@@ -45,3 +45,198 @@
 2025-06-16 00:57:59.511 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
    at PickIt.PickIt.OnPluginDestroyForHotReload()
    at ExileCore.Shared.PluginWrapper.Close()
+2025-06-16 07:56:36.454 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 07:56:36.457 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 07:56:36.460 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 07:57:18.063 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 07:57:25.866 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 08:00:01.107 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 08:01:35.099 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 08:02:35.428 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 08:02:35.480 +02:00 [ERR] Skill on cooldown
+2025-06-16 08:03:26.407 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 08:03:57.900 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 08:13:01.285 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-16 09:56:31.090 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 09:56:34.691 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 09:57:18.856 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 09:57:18.942 +02:00 [ERR] Skill on cooldown
+2025-06-16 09:59:17.405 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 10:00:00.045 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:00:45.590 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 10:07:06.973 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 10:10:27.650 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:11:09.006 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 10:12:05.782 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 10:12:23.479 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 10:14:26.237 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:14:35.818 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 10:14:36.098 +02:00 [ERR] Skill on cooldown
+2025-06-16 10:15:22.610 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 10:15:22.659 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:17:22.531 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:20:13.173 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:20:59.183 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:21:18.600 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 10:23:22.088 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:23:33.036 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 10:23:33.087 +02:00 [ERR] Skill on cooldown
+2025-06-16 10:24:00.847 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 10:24:53.561 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 10:26:46.834 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 10:26:56.560 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 10:26:57.802 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:28:02.003 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:28:02.141 +02:00 [ERR] Something wrong we parse 6 when expect 3
+2025-06-16 10:28:02.504 +02:00 [ERR] Something wrong we parse 11 when expect 5
+2025-06-16 10:30:55.480 +02:00 [ERR] [MinimapIcons] Failed to build an icon for <Monster> (White) Metadata/Monsters/Snake/SnakeFlame: (220B2C10A10): System.NullReferenceException: Object reference not set to an instance of an object.
+   at MinimapIcons.IconsBuilder.Icons.MonsterIcon.Update(Entity entity, IconsBuilderSettings settings, Dictionary`2 modIcons)
+   at MinimapIcons.IconsBuilder.IconsBuilder.GenerateIcon(Entity entity)
+   at MinimapIcons.IconsBuilder.IconsBuilder.AddIcons()
+2025-06-16 10:32:19.328 +02:00 [ERR] Something wrong we parse 2034 when expect 887
+2025-06-16 10:34:40.750 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:39:12.474 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 10:39:12.939 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:40:05.245 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 10:43:58.813 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 10:44:27.286 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 10:46:05.052 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 10:49:26.972 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:13:39.184 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 13:13:39.188 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:18:38.668 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:19:32.150 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:24:10.689 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:26:36.841 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:27:26.450 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:27:28.741 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:27:28.829 +02:00 [ERR] Skill on cooldown
+2025-06-16 13:27:32.166 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 13:27:39.225 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 13:27:39.639 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:28:09.073 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 13:28:11.053 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:28:20.808 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:28:33.714 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:28:45.972 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:29:19.435 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:32:48.908 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:32:57.699 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:33:10.225 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:33:26.120 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:33:33.174 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 13:33:33.869 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 13:34:08.871 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:34:32.445 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:34:33.479 +02:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at MinimapIcons.IconsBuilder.Icons.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-16 13:34:33.514 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 13:34:44.281 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:34:44.404 +02:00 [ERR] Skill on cooldown
+2025-06-16 13:35:18.018 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-16 13:35:18.344 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:36:42.057 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:39:22.603 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:39:30.644 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 13:42:06.994 +02:00 [ERR] 4 ActivateBuffIfNotPresent
+2025-06-16 14:03:32.881 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 14:03:33.309 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 14:04:37.325 +02:00 [ERR] Something wrong we parse 1212 when expect 507
+2025-06-16 14:04:42.613 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-16 23:08:55.146 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 23:09:29.476 +02:00 [ERR] 1 ActivateBuffIfNotPresent
+2025-06-16 23:09:29.476 +02:00 [ERR] [Willplug] Willplug: Exception! Printscreen this and post it.
+Object reference not set to an instance of an object.
+   at Willplug.BotBehavior.CharAbilities.<>c__DisplayClass153_0.<CreateUseGuardSkillComposite>b__0(Object <p0>) in C:\gitrepos\poe_api_tehcheat\poe-plugin-willplug\CharAbilities.cs:line 1684
+   at TreeRoutine.TreeSharp.Decorator.Execute(Object context)+MoveNext() in C:\gitrepos\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Decorator.cs:line 65
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in C:\gitrepos\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Composite.cs:line 143
+   at TreeRoutine.TreeSharp.PrioritySelector.Execute(Object context)+MoveNext() in C:\gitrepos\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\PrioritySelector.cs:line 60
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in C:\gitrepos\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Composite.cs:line 143
+   at TreeRoutine.TreeSharp.Decorator.Execute(Object context)+MoveNext() in C:\gitrepos\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Decorator.cs:line 78
+   at TreeRoutine.TreeSharp.Composite.Tick(Object context) in C:\gitrepos\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\TreeSharp\Composite.cs:line 143
+   at TreeRoutine.BaseTreeRoutinePlugin`2.TickTree(Composite treeRoot) in C:\gitrepos\poe_api_tehcheat\poe-plugin-willplug\TreeRoutine\BaseTreeRoutinePlugin.cs:line 110
+2025-06-16 23:09:57.935 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-16 23:15:19.893 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---

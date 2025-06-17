@@ -1,0 +1,89 @@
+2025-06-17 00:00:02.187 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
+2025-06-17 08:54:35.733 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:35.747 +02:00 [ERR] Game address was 0, procAddress: 7FF7E60B0000, gameStateOffset: 41B9C68
+2025-06-17 08:54:35.747 +02:00 [ERR] System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:35.747 +02:00 [ERR] Inject -> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+   at ExileCore.Core.Inject()
+2025-06-17 08:54:37.740 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:39.771 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:41.802 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:43.829 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 08:54:45.858 +02:00 [ERR] GameController failed to initialize
+System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'startIndex')
+   at System.BitConverter.ToInt64(Byte[] value, Int32 startIndex)
+   at ExileCore.PoEMemory.FilesFromMemory.GetAllFiles()
+   at ExileCore.PoEMemory.FilesContainer..ctor(IMemory memory, CoreSettings settings)
+   at ExileCore.PoEMemory.MemoryObjects.TheGame..ctor(IMemory m, Cache cache, CoreSettings settings, GameController gameController)
+   at ExileCore.GameController..ctor(Memory memory, SoundController soundController, SettingsContainer settings, MultiThreadManager multiThreadManager)
+2025-06-17 09:16:27.021 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-17 09:16:27.026 +02:00 [ERR] Unhandled exception (TaskScheduler.UnobservedTaskException) in program: System.AggregateException: A Task's exception(s) were not observed either by Waiting on the Task or accessing its Exception property. As a result, the unobserved exception was rethrown by the finalizer thread. (The remote server returned an error: (403) Forbidden.)
+ ---> System.Net.WebException: The remote server returned an error: (403) Forbidden.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.OpenRead(Uri address)
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadData(DateTime data) in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 192
+   at AdvancedUberLabLayout.AdvancedUberLabLayoutCore.LoadImage() in AdvancedUberLabLayout/AdvancedUberLabLayoutCore.cs:line 127
+   --- End of inner exception stack trace ---
+2025-06-17 09:17:26.134 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:17:43.108 +02:00 [ERR] Something wrong we parse 243 when expect 40
+2025-06-17 09:17:43.473 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:20:29.040 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:20:29.125 +02:00 [ERR] MinimapIcons, PerfomanceRender -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at MinimapIcons.IconsBuilder.Icons.LegionIcon.<>c__DisplayClass2_0.<Update>b__1()
+   at MinimapIcons.MinimapIcons.Render()
+   at ExileCore.Shared.PluginWrapper.PerfomanceRender()
+2025-06-17 09:20:47.756 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:22:40.194 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:22:59.326 +02:00 [ERR] Object reference not set to an instance of an object.
+2025-06-17 09:48:20.054 +02:00 [ERR] Pickit, Close -> System.NullReferenceException: Object reference not set to an instance of an object.
+   at PickIt.PickIt.OnPluginDestroyForHotReload()
+   at ExileCore.Shared.PluginWrapper.Close()
