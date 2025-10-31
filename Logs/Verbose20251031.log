@@ -1,0 +1,49 @@
+2025-10-31 16:57:56.954 +01:00 [INF] =============== Start hud at 10/31/2025 4:57:56 PM ===============
+2025-10-31 16:57:57.093 +01:00 [INF] PerfTimer =-> Create new offsets (87.9854 ms) Thread #[1]
+2025-10-31 16:57:57.949 +01:00 [INF] PerfTimer =-> Load manual fonts (0.4041 ms) Thread #[1]
+2025-10-31 16:57:57.949 +01:00 [INF] PerfTimer =-> DX11 Load (1.1301 ms) Thread #[1]
+2025-10-31 16:57:58.492 +01:00 [INF] Can't find theme file Default, loading default.
+2025-10-31 16:57:58.493 +01:00 [INF] Can't find default theme file Default, Generating default and saving...
+2025-10-31 16:57:58.493 +01:00 [INF] Game not found
+2025-10-31 16:57:58.493 +01:00 [INF] HUD loaded in 16507.9065 ms.
+2025-10-31 16:58:00.401 +01:00 [INF] Game not found
+2025-10-31 16:58:02.429 +01:00 [INF] Game not found
+2025-10-31 16:58:04.451 +01:00 [INF] Game not found
+2025-10-31 16:58:06.484 +01:00 [INF] Game not found
+2025-10-31 16:58:07.831 +01:00 [INF] =============== Close hud at 10/31/2025 4:58:07 PM ===============
+2025-10-31 17:02:42.999 +01:00 [INF] =============== Start hud at 10/31/2025 5:02:42 PM ===============
+2025-10-31 17:02:43.035 +01:00 [INF] PerfTimer =-> Create new offsets (3.1772 ms) Thread #[1]
+2025-10-31 17:02:43.327 +01:00 [INF] PerfTimer =-> Load manual fonts (0.4077 ms) Thread #[1]
+2025-10-31 17:02:43.327 +01:00 [INF] PerfTimer =-> DX11 Load (1.1019 ms) Thread #[1]
+2025-10-31 17:02:43.553 +01:00 [INF] Game not found
+2025-10-31 17:02:43.553 +01:00 [INF] HUD loaded in 636.4274 ms.
+2025-10-31 17:02:45.502 +01:00 [INF] Game not found
+2025-10-31 17:02:47.524 +01:00 [INF] Game not found
+2025-10-31 17:02:49.552 +01:00 [INF] Game not found
+2025-10-31 17:02:51.574 +01:00 [INF] Game not found
+2025-10-31 17:02:54.596 +01:00 [INF] =============== Start hud at 10/31/2025 5:02:54 PM ===============
+2025-10-31 17:02:54.619 +01:00 [INF] PerfTimer =-> Create new offsets (0.8965 ms) Thread #[1]
+2025-10-31 17:02:54.872 +01:00 [INF] PerfTimer =-> Load manual fonts (0.4105 ms) Thread #[1]
+2025-10-31 17:02:54.872 +01:00 [INF] PerfTimer =-> DX11 Load (1.0718 ms) Thread #[1]
+2025-10-31 17:02:55.068 +01:00 [INF] Game not found
+2025-10-31 17:02:55.069 +01:00 [INF] HUD loaded in 522.6668 ms.
+2025-10-31 17:02:57.031 +01:00 [INF] Game not found
+2025-10-31 17:02:59.051 +01:00 [INF] Game not found
+2025-10-31 17:03:01.059 +01:00 [INF] Game not found
+2025-10-31 17:03:03.091 +01:00 [INF] Game not found
+2025-10-31 17:03:05.118 +01:00 [INF] Game not found
+2025-10-31 17:03:07.882 +01:00 [INF] =============== Start hud at 10/31/2025 5:03:07 PM ===============
+2025-10-31 17:03:07.905 +01:00 [INF] PerfTimer =-> Create new offsets (0.9491 ms) Thread #[1]
+2025-10-31 17:03:08.164 +01:00 [INF] PerfTimer =-> Load manual fonts (0.4294 ms) Thread #[1]
+2025-10-31 17:03:08.164 +01:00 [INF] PerfTimer =-> DX11 Load (1.1268 ms) Thread #[1]
+2025-10-31 17:03:08.365 +01:00 [INF] Game not found
+2025-10-31 17:03:08.366 +01:00 [INF] HUD loaded in 530.2266 ms.
+2025-10-31 17:03:10.326 +01:00 [INF] Game not found
+2025-10-31 17:03:12.341 +01:00 [INF] Game not found
+2025-10-31 17:03:14.367 +01:00 [INF] Game not found
+2025-10-31 17:03:16.395 +01:00 [INF] Game not found
+2025-10-31 17:03:18.421 +01:00 [INF] Game not found
+2025-10-31 17:03:20.457 +01:00 [INF] Game not found
+2025-10-31 17:03:22.477 +01:00 [INF] Game not found
+2025-10-31 17:03:24.505 +01:00 [INF] Game not found
+2025-10-31 17:03:26.534 +01:00 [INF] Game not found
